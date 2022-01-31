@@ -1,0 +1,3 @@
+local charw = game.Players.LocalPlayer.Character
+
+charw.LowerTorso.Root.C0 = charw.LowerTorso.Root.C0 * CFrame.Angles(0, 0, math.pi) * CFrame.new(-1, -1, -1)
