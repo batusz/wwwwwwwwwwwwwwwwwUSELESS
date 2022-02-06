@@ -1,6 +1,18 @@
 Batus's Murder Mystery 2 Script
 Last Update 2.02.2022 
 
+---[[[[
+
+V.2.2 Update Logs
+-- SMALL UPDATE --
+
+[ Local Player Tab -> Added Noclip
+[ Visuals Tab      -> Added Xray 
+[ Fixed Synapse X Crash when using script without loadstring
+
+]]]]
+
+
 Features
 
 
@@ -9,6 +21,7 @@ Local Player Tab
 Godmode
 Invisible Godmode
 Fly 
+Noclip
 Set Walkspeed
 Set Jumppower
 Set HipHeight
@@ -27,6 +40,7 @@ Visuals Tab
 
 Murderer Esp
 Sherif Esp
+Xray
 Low Gfx
 Ultra Low Gfx
 Full Bright
